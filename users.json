@@ -1,0 +1,34 @@
+{
+  "user1": {
+    "id": 1,
+    "firstname": "Bas",
+    "lastname": "Jordance",
+    "position": "Accountant",
+    "location": "Davao City",
+    "Company": "Land Bank of the Philippines"
+  },
+  "user2": {
+    "id": 2,
+    "firstname": "Trae",
+    "lastname": "Lebron",
+    "position": "Manager",
+    "location": "Los Angeles City",
+    "Company": "BDO"
+  },
+  "user3": {
+    "id": 3,
+    "firstname": "Alwin",
+    "lastname": "Tony",
+    "position": "Secretary",
+    "location": "Ecolang City",
+    "Company": "SM Supermalls"
+  },
+  "user4": {
+    "id": 4,
+    "firstname": "Chew",
+    "lastname": "Young",
+    "position": "Developer",
+    "location": "Denver City",
+    "Company": "Orange Inc."
+  }
+}
